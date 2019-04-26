@@ -1,0 +1,22 @@
+{
+  "name": "01-weekend-challege--jquery-salary-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konouvang/01-Weekend-Challege--jQuery-Salary-Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konouvang/01-Weekend-Challege--jQuery-Salary-Calculator/issues"
+  },
+  "homepage": "https://github.com/konouvang/01-Weekend-Challege--jQuery-Salary-Calculator#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
